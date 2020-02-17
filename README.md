@@ -1,5 +1,6 @@
 # LSA-and-Word2vec-analysis
-LSA analysis, Word Embedding, and WEAT analysis
+LSA analysis, Word Embedding, and WEAT analysis \n
+
 Part 1 is for LSA analysis
 Part 2 is Word Embedding by using SkipGram
 Part 3 is implement for https://openreview.net/pdf?id=SyK00v5xx 
