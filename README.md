@@ -1,5 +1,5 @@
 # LSA-and-Word2vec-analysis
-LSA analysis, Word Embedding, and WEAT analysis 
+LSA analysis, Word Embedding, and WEAT analysis for Bank of England Inflation Report data
 
 Part 1 is for LSA analysis
 
